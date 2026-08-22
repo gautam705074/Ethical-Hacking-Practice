@@ -29,9 +29,6 @@ exploit
 sysinfo       # To check OS details
 getuid        # To check system privileges
 screenshot    # To capture the target's screen
-### 📸 Lab Screenshots
 
-![Lab Scan](/home/kali/Pictures/Screenshot_2026-08-22_07_06_12.png
-/home/kali/Pictures/Screenshot_2026-08-22_07_06_22.png
-/home/kali/Pictures/Screenshot_2026-08-22_07_06_42.png)
-
+### 📸 Lab Screenshot
+![Lab Scan Result](screenshots/final_scan.png)
